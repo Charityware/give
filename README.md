@@ -1,7 +1,1 @@
-swayze
-======
-
-The first ever WooThemes theme for Ghost.
-
-* Designed by Cobus Bester
-* Developed by Jeffrey Pearce
+A ghost theme for the Charityware Engineering blog; inspired by the Swayze theme from WooThemes.
